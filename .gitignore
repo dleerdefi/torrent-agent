@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Config files with sensitive data
+config.yaml
+
+# API keys or secret files
+*.secret
